@@ -1,0 +1,83 @@
+['James Harden', 0.9829018770191732]
+['Giannis Antetokounmpo', 0.9807273284686703]
+['LeBron James', 0.9611870375044319]
+['Anthony Davis', 0.9472211499139128]
+['Nikola Jokić', 0.9245934515928947]
+['Damian Lillard', 0.8995642567816857]
+['Luka Dončić', 0.8779351084479494]
+['Rudy Gobert', 0.7790426815033367]
+['Kawhi Leonard', 0.7627333574905035]
+['Domantas Sabonis', 0.6130727809461918]
+['Jimmy Butler', 0.5742265983743272]
+['Jayson Tatum', 0.5726438096431903]
+['Bam Adebayo', 0.5719183533935113]
+['Bradley Beal', 0.5426181165283402]
+['Chris Paul', 0.508224647099904]
+['Russell Westbrook', 0.4838440967080876]
+['Donovan Mitchell', 0.4731195094801458]
+['Pascal Siakam', 0.44043226021678905]
+['Trae Young', 0.4281265436172492]
+['Kyle Lowry', 0.3998909819019308]
+['Khris Middleton', 0.36318094244094734]
+['Devin Booker', 0.3598056911805172]
+['Ben Simmons', 0.3393592279565996]
+['Brandon Ingram', 0.316567088352286]
+['Joel Embiid', 0.18428723616387133]
+['Kemba Walker', 0.17234450167267085]
+
+
+
+Guards:
+['James Harden', 0.9829018770191732]
+['Damian Lillard', 0.8995642567816857]
+['Luka Dončić', 0.8779351084479494]
+['Jimmy Butler', 0.5742265983743272]
+['Bradley Beal', 0.5426181165283402]
+['Chris Paul', 0.508224647099904]
+['Russell Westbrook', 0.4838440967080876]
+['Donovan Mitchell', 0.4731195094801458]
+['Trae Young', 0.4281265436172492]
+['Kyle Lowry', 0.3998909819019308]
+['Devin Booker', 0.3598056911805172]
+['Ben Simmons', 0.3393592279565996]
+['Kemba Walker', 0.17234450167267085]
+
+Forwards:
+['Giannis Antetokounmpo', 0.9807273284686703]
+['LeBron James', 0.9611870375044319]
+['Kawhi Leonard', 0.7627333574905035]
+['Jayson Tatum', 0.5726438096431903]
+['Pascal Siakam', 0.44043226021678905]
+['Khris Middleton', 0.36318094244094734]
+['Brandon Ingram', 0.316567088352286]
+
+Centers:
+['Anthony Davis', 0.9472211499139128]
+['Nikola Jokić', 0.9245934515928947]
+['Rudy Gobert', 0.7790426815033367]
+['Domantas Sabonis', 0.6130727809461918]
+['Bam Adebayo', 0.5719183533935113]
+['Joel Embiid', 0.18428723616387133]
+
+
+
+All-NBA 1st Team: 
+G: ['James Harden', 0.9829018770191732]
+G: ['Damian Lillard', 0.8995642567816857]
+F: ['Giannis Antetokounmpo', 0.9807273284686703]
+F: ['LeBron James', 0.9611870375044319]
+C: ['Anthony Davis', 0.9472211499139128]
+
+All-NBA 2nd Team: 
+G: ['Luka Dončić', 0.8779351084479494]
+G: ['Jimmy Butler', 0.5742265983743272]
+F: ['Kawhi Leonard', 0.7627333574905035]
+F: ['Jayson Tatum', 0.5726438096431903]
+C: ['Nikola Jokić', 0.9245934515928947]
+
+All-NBA 3rd Team: 
+G: ['Bradley Beal', 0.5426181165283402]
+G: ['Chris Paul', 0.508224647099904]
+F: ['Pascal Siakam', 0.44043226021678905]
+F: ['Khris Middleton', 0.36318094244094734]
+C: ['Rudy Gobert', 0.7790426815033367]

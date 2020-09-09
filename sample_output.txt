@@ -1,0 +1,39 @@
+--- Iteration 0 ---
+Neural Network Accuracy: 0.8072916666666666
+Neural Network Precision: 0.7704918032786885
+
+--- Iteration 1 ---
+Neural Network Accuracy: 0.828125
+Neural Network Precision: 0.8301886792452831
+
+--- Iteration 2 ---
+Neural Network Accuracy: 0.8333333333333334
+Neural Network Precision: 0.8034188034188035
+
+--- Iteration 3 ---
+Neural Network Accuracy: 0.8541666666666666
+Neural Network Precision: 0.9213483146067416
+
+--- Iteration 4 ---
+Neural Network Accuracy: 0.8385416666666666
+Neural Network Precision: 0.9285714285714286
+
+--- Iteration 5 ---
+Neural Network Accuracy: 0.828125
+Neural Network Precision: 0.8240740740740741
+
+--- Iteration 6 ---
+Neural Network Accuracy: 0.8072916666666666
+Neural Network Precision: 0.7578125
+
+--- Iteration 7 ---
+Neural Network Accuracy: 0.8645833333333334
+Neural Network Precision: 0.9425287356321839
+
+--- Iteration 8 ---
+Neural Network Accuracy: 0.84375
+Neural Network Precision: 0.9101123595505618
+
+--- Iteration 9 ---
+Neural Network Accuracy: 0.859375
+Neural Network Precision: 0.8958333333333334

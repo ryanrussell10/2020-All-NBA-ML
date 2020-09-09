@@ -1,0 +1,50 @@
+Neural Network Accuracy: 0.8125
+Neural Network Precision: 0.891566265060241
+['Giannis Antetokounmpo', 0.9647199084064794]
+['James Harden', 0.9410857923975662]
+['LeBron James', 0.8920585164888502]
+['Nikola Jokić', 0.8613978305340336]
+['Anthony Davis', 0.8355550298529036]
+['Luka Dončić', 0.8069241295502336]
+['Kawhi Leonard', 0.7776831385174675]
+['Damian Lillard', 0.6741985155425851]
+['Rudy Gobert', 0.5988443802588296]
+['Jimmy Butler', 0.584312923920164]
+['Jayson Tatum', 0.49280390914857575]
+['Domantas Sabonis', 0.4856186110005006]
+['Bam Adebayo', 0.47466539100285465]
+['Russell Westbrook', 0.4225298992284498]
+['Chris Paul', 0.3827214904618202]
+['Donovan Mitchell', 0.32903608532848416]
+['Khris Middleton', 0.32625487980306106]
+['Ben Simmons', 0.3201546805275738]
+['Kyle Lowry', 0.3180443544978915]
+['Pascal Siakam', 0.29823870234319444]
+['Joel Embiid', 0.2604528764082595]
+['Kemba Walker', 0.20429284385301957]
+['Bradley Beal', 0.19723859379850095]
+['Brandon Ingram', 0.18803219182307637]
+['Devin Booker', 0.16577284970824935]
+['Trae Young', 0.12316028773594559]
+
+
+All-NBA 1st Team: 
+G: ['James Harden', 0.9410857923975662]
+G: ['Luka Dončić', 0.8069241295502336]
+F: ['Giannis Antetokounmpo', 0.9647199084064794]
+F: ['LeBron James', 0.8920585164888502]
+C: ['Nikola Jokić', 0.8613978305340336]
+
+All-NBA 2nd Team: 
+G: ['Damian Lillard', 0.6741985155425851]
+G: ['Jimmy Butler', 0.584312923920164]
+F: ['Anthony Davis', 0.8355550298529036]
+F: ['Kawhi Leonard', 0.7776831385174675]
+C: ['Rudy Gobert', 0.5988443802588296]
+
+All-NBA 3rd Team: 
+G: ['Russell Westbrook', 0.4225298992284498]
+G: ['Chris Paul', 0.3827214904618202]
+F: ['Jayson Tatum', 0.49280390914857575]
+F: ['Khris Middleton', 0.32625487980306106]
+C: ['Domantas Sabonis', 0.4856186110005006]
