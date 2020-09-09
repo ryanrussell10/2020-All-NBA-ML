@@ -1,2 +1,4 @@
 # 2020-All-NBA-ML
 The goal of this project was to predict the 2019-20 All-NBA teams using various machine learning methods, primarily an Artificial Neural Network. The teams were predicted by learning models on past NBA statistical data and All-NBA voting results. The All-NBA teams essentially consist of the 15 top performing NBA players for the entire regular season. There are three teams of 5 players, where the first team consists of the league’s 5 best players, the second team is players ranked 6 to 10, and the third team is players ranked 11 to 15. It should be noted that players are also restricted by position. The primary factors considered when selecting All-NBA players are basic counting statistics (points, assists, rebounds, etc.), advanced metrics, and team success.  
+
+The code was written entirely in Python 3 and heavily utilized the Scikit Learn Python library.
